@@ -59,7 +59,7 @@ bilibili-info-extractor/
 ---
 
 ## 📄 开源协议
-本项目仅供学习交流，使用 [MIT License](LICENSE)（可选，可自行添加）。
+本项目仅供学习交流，使用 [MIT License](LICENSE)。
 
 ---
 
@@ -73,4 +73,3 @@ bilibili-info-extractor/
 > 如果觉得不错，欢迎 ⭐ Star 本仓库！
 
 **Author:** [Baimaco](https://space.bilibili.com/1329200878)
-```
